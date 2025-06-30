@@ -43,8 +43,8 @@
 sleeper_buffs:
   speed:
     level: 1
-    time: 20
+    time: 2
 non_sleeper_debuffs:
   slow:
-    time: 3
+    time: 1
     level: 1

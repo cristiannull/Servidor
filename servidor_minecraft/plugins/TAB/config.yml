@@ -1,6 +1,6 @@
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Header-&-Footer
 header-footer:
-  enabled: true
+  enabled: false
   header:
     - "<#FFFFFF>&m                                                </#FFFF00>"
     - "&3&lServer name"
@@ -33,12 +33,12 @@ header-footer:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Tablist-name-formatting
 tablist-name-formatting:
-  enabled: true
+  enabled: false
   disable-condition: '%world%=disabledworld'
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Nametags
 scoreboard-teams:
-  enabled: true
+  enabled: false
   enable-collision: true
   invisible-nametags: false
   # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Sorting-players-in-tablist
@@ -90,7 +90,7 @@ scoreboard:
   toggle-command: /sb
   remember-toggle-choice: false
   hidden-by-default: false
-  use-numbers: true
+  use-numbers: false
   static-number: 0
   delay-on-join-milliseconds: 0
   scoreboards:
