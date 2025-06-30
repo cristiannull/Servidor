@@ -163,27 +163,28 @@
       "minecraft:blaze": "2025-06-28 22:13:37 +0000",
       "minecraft:pillager": "2025-06-30 05:05:10 +0000",
       "minecraft:skeleton": "2025-06-28 01:08:21 +0000",
+      "minecraft:ravager": "2025-06-30 05:22:54 +0000",
+      "minecraft:bogged": "2025-06-29 23:11:30 +0000",
+      "minecraft:hoglin": "2025-06-28 22:00:10 +0000",
+      "minecraft:vindicator": "2025-06-30 05:23:08 +0000",
+      "minecraft:magma_cube": "2025-06-28 23:15:25 +0000",
+      "minecraft:spider": "2025-06-28 00:21:47 +0000",
+      "minecraft:piglin_brute": "2025-06-28 23:26:41 +0000",
+      "minecraft:creeper": "2025-06-28 01:08:31 +0000",
+      "minecraft:slime": "2025-06-29 23:11:42 +0000",
+      "minecraft:evoker": "2025-06-30 05:25:39 +0000",
       "minecraft:phantom": "2025-06-29 23:37:34 +0000",
       "minecraft:zombified_piglin": "2025-06-30 01:20:59 +0000",
       "minecraft:witch": "2025-06-30 05:24:05 +0000",
       "minecraft:wither_skeleton": "2025-06-28 22:14:16 +0000",
-      "minecraft:ravager": "2025-06-30 05:22:54 +0000",
-      "minecraft:bogged": "2025-06-29 23:11:30 +0000",
       "minecraft:ender_dragon": "2025-06-29 02:28:16 +0000",
-      "minecraft:hoglin": "2025-06-28 22:00:10 +0000",
       "minecraft:shulker": "2025-06-29 02:42:48 +0000",
       "minecraft:piglin": "2025-06-28 23:27:29 +0000",
-      "minecraft:vindicator": "2025-06-30 05:23:08 +0000",
       "minecraft:enderman": "2025-06-29 00:48:17 +0000",
-      "minecraft:magma_cube": "2025-06-28 23:15:25 +0000",
-      "minecraft:spider": "2025-06-28 00:21:47 +0000",
-      "minecraft:piglin_brute": "2025-06-28 23:26:41 +0000",
+      "minecraft:stray": "2025-06-30 23:30:08 +0000",
       "minecraft:vex": "2025-06-30 05:25:46 +0000",
       "minecraft:zombie": "2025-06-28 00:18:36 +0000",
-      "minecraft:creeper": "2025-06-28 01:08:31 +0000",
-      "minecraft:zombie_villager": "2025-06-29 01:32:01 +0000",
-      "minecraft:slime": "2025-06-29 23:11:42 +0000",
-      "minecraft:evoker": "2025-06-30 05:25:39 +0000"
+      "minecraft:zombie_villager": "2025-06-29 01:32:01 +0000"
     },
     "done": false
   },
@@ -195,6 +196,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-06-30 23:28:52 +0000",
       "rotten_flesh": "2025-06-28 00:18:40 +0000",
       "cooked_mutton": "2025-06-29 23:02:23 +0000",
       "sweet_berries": "2025-06-28 04:25:37 +0000",
@@ -3909,6 +3911,60 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-30 05:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-06-30 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
     },
     "done": true
   },
