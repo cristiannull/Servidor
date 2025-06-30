@@ -2993,6 +2993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-06-30 23:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-30 22:31:41 +0000"
