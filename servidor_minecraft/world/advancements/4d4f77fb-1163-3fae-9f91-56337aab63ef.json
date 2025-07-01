@@ -3014,6 +3014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 00:12:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-06-30 23:03:15 +0000"
@@ -3185,6 +3191,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-07-01 00:12:51 +0000"
     },
     "done": true
   },
