@@ -375,6 +375,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-07-01 02:23:17 +0000",
       "honey_bottle": "2025-07-01 00:03:56 +0000",
       "cooked_beef": "2025-06-30 02:48:55 +0000",
       "baked_potato": "2025-06-28 22:00:48 +0000",
@@ -2210,6 +2211,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-01 02:19:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-07-01 02:05:47 +0000"
@@ -2219,6 +2232,18 @@
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-07-01 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-01 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-07-01 02:15:06 +0000"
     },
     "done": true
   },
