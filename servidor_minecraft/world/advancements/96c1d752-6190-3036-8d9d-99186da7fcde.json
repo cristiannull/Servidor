@@ -2210,5 +2210,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-07-01 02:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-07-01 02:07:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
