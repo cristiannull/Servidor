@@ -37,3 +37,18 @@
 [01:09:37] [Server thread/WARN]: El_samux moved wrongly!
 [01:16:10] [Server thread/WARN]: Null_Gos moved wrongly!
 [01:21:31] [Server thread/INFO]: El_samux has reached the goal [Postmortal]
+[01:33:47] [User Authenticator #14/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
+[01:33:50] [Server thread/INFO]: juns_12 joined the game
+[01:33:50] [Server thread/INFO]: juns_12[/127.118.100.209:58599] logged in with entity id 68592 at ([world]292.20789730453504, 72.0, -376.76183029317144)
+[01:34:40] [Server thread/INFO]: juns_12 lost connection: Timed out
+[01:34:40] [Server thread/INFO]: juns_12 left the game.
+[01:34:40] [Server thread/WARN]: handleDisconnection() called twice
+[01:34:43] [User Authenticator #15/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
+[01:34:46] [Server thread/INFO]: juns_12 joined the game
+[01:34:46] [Server thread/INFO]: juns_12[/127.118.100.209:52037] logged in with entity id 68967 at ([world]292.20789730453504, 72.0, -376.76183029317144)
+[01:35:36] [Server thread/INFO]: juns_12 lost connection: Timed out
+[01:35:36] [Server thread/INFO]: juns_12 left the game.
+[01:35:36] [Server thread/WARN]: handleDisconnection() called twice
+[01:36:12] [User Authenticator #16/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
+[01:36:24] [Server thread/INFO]: juns_12 joined the game
+[01:36:24] [Server thread/INFO]: juns_12[/127.118.100.209:53043] logged in with entity id 69442 at ([world]292.20789730453504, 72.0, -376.76183029317144)
