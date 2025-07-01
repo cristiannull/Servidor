@@ -167,6 +167,7 @@
       "minecraft:bogged": "2025-06-29 23:11:30 +0000",
       "minecraft:hoglin": "2025-06-28 22:00:10 +0000",
       "minecraft:vindicator": "2025-06-30 05:23:08 +0000",
+      "minecraft:breeze": "2025-06-30 23:46:29 +0000",
       "minecraft:magma_cube": "2025-06-28 23:15:25 +0000",
       "minecraft:spider": "2025-06-28 00:21:47 +0000",
       "minecraft:piglin_brute": "2025-06-28 23:26:41 +0000",
@@ -3926,6 +3927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-01 00:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-30 23:37:31 +0000"
@@ -3947,6 +3954,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-06-30 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-06-30 23:46:31 +0000"
     },
     "done": true
   },
@@ -3977,6 +3990,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-06-30 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-06-30 23:50:47 +0000"
     },
     "done": true
   },
@@ -4016,6 +4035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-06-30 23:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-06-30 23:30:42 +0000"
@@ -4043,6 +4068,18 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-06-30 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-30 23:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-06-30 23:51:57 +0000"
     },
     "done": true
   },

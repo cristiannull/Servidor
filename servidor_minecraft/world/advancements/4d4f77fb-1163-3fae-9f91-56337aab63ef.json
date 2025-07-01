@@ -708,6 +708,7 @@
       "minecraft:shulker": "2025-06-29 02:43:55 +0000",
       "minecraft:piglin": "2025-06-28 22:01:24 +0000",
       "minecraft:vindicator": "2025-06-30 05:17:39 +0000",
+      "minecraft:breeze": "2025-06-30 23:47:28 +0000",
       "minecraft:enderman": "2025-06-29 00:48:42 +0000",
       "minecraft:stray": "2025-06-30 23:29:34 +0000",
       "minecraft:magma_cube": "2025-06-28 21:42:54 +0000",
@@ -716,6 +717,7 @@
       "minecraft:vex": "2025-06-30 05:26:17 +0000",
       "minecraft:zombie": "2025-06-27 23:09:04 +0000",
       "minecraft:creeper": "2025-06-27 23:11:26 +0000",
+      "minecraft:drowned": "2025-07-01 00:00:14 +0000",
       "minecraft:zombie_villager": "2025-06-28 23:54:07 +0000",
       "minecraft:slime": "2025-06-30 01:03:37 +0000",
       "minecraft:evoker": "2025-06-30 05:32:50 +0000"
@@ -2988,6 +2990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-06-30 23:30:45 +0000"
@@ -3024,6 +3032,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-06-30 23:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-30 22:31:41 +0000"
@@ -3036,6 +3056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-30 22:31:41 +0000"
@@ -3045,6 +3071,24 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-06-30 22:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-30 23:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
     },
     "done": true
   },
@@ -3063,6 +3107,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-06-30 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-06-30 23:59:38 +0000"
     },
     "done": true
   },
@@ -3090,15 +3140,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-30 23:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-06-30 23:31:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-06-30 23:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-30 22:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-06-30 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-30 23:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-30 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-06-30 23:51:48 +0000"
     },
     "done": true
   },
