@@ -2211,18 +2211,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-01 02:15:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wind_charge": {
-    "criteria": {
-      "has_breeze_rod": "2025-07-01 02:19:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-07-01 02:05:47 +0000"
@@ -2235,15 +2223,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/mace": {
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_breeze_rod": "2025-07-01 02:19:43 +0000"
+      "has_smithing_trim_template": "2025-07-01 02:15:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
     "criteria": {
       "has_bolt_armor_trim_smithing_template": "2025-07-01 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-01 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-01 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-01 02:29:50 +0000"
     },
     "done": true
   },

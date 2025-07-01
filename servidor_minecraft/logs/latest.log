@@ -139,3 +139,20 @@
 [02:25:22] [Server thread/INFO]: juns_12 lost connection: Timed out
 [02:25:22] [Server thread/INFO]: juns_12 left the game.
 [02:25:22] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:13] [User Authenticator #25/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
+[02:29:16] [Server thread/INFO]: juns_12 joined the game
+[02:29:16] [Server thread/INFO]: juns_12[/127.118.100.209:57983] logged in with entity id 89197 at ([world]284.01249998807907, -18.0, -423.30000001192093)
+[02:30:06] [Server thread/INFO]: juns_12 lost connection: Timed out
+[02:30:06] [Server thread/INFO]: juns_12 left the game.
+[02:30:06] [Server thread/WARN]: handleDisconnection() called twice
+[02:31:03] [User Authenticator #26/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
+[02:31:07] [Server thread/INFO]: juns_12 joined the game
+[02:31:07] [Server thread/INFO]: juns_12[/127.118.100.209:56563] logged in with entity id 89662 at ([world]284.7871925183385, -18.0, -422.4043840227841)
+[02:32:03] [Async Chat Thread - #60/INFO]: [Not Secure] <juns_12> dale que se puede loco
+[02:32:22] [Server thread/INFO]: juns_12 lost connection: Timed out
+[02:32:22] [Server thread/INFO]: juns_12 left the game.
+[02:32:22] [Server thread/WARN]: handleDisconnection() called twice
+[02:32:55] [User Authenticator #27/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
+[02:32:58] [Server thread/INFO]: juns_12 joined the game
+[02:32:58] [Server thread/INFO]: juns_12[/127.118.100.209:57203] logged in with entity id 90051 at ([world]284.7871925183385, -18.0, -422.4043840227841)
+[02:33:01] [Async Chat Thread - #59/INFO]: [Not Secure] <El_samux> 32 -52
