@@ -23,6 +23,7 @@
       "minecraft:grove": "2025-06-29 02:04:52 +0000",
       "minecraft:meadow": "2025-06-29 02:04:34 +0000",
       "minecraft:birch_forest": "2025-06-29 02:04:20 +0000",
+      "minecraft:savanna": "2025-07-01 00:38:49 +0000",
       "minecraft:bamboo_jungle": "2025-06-29 23:47:16 +0000",
       "minecraft:plains": "2025-06-27 00:30:34 +0000",
       "minecraft:pale_garden": "2025-06-29 03:23:48 +0000"
@@ -3263,6 +3264,24 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-07-01 00:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-01 00:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-01 00:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-01 00:40:22 +0000"
     },
     "done": true
   },
