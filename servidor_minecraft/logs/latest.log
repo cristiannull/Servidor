@@ -1,200 +1,185 @@
-[00:03:11] [Async Chat Thread - #19/INFO]: [Not Secure] <juns_12> q lag
-[00:03:19] [Server thread/INFO]: juns_12 lost connection: Disconnected
-[00:03:19] [Server thread/INFO]: juns_12 left the game
-[00:03:34] [User Authenticator #11/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[00:03:35] [Server thread/INFO]: juns_12 joined the game
-[00:03:35] [Server thread/INFO]: juns_12[/127.118.100.209:41035] logged in with entity id 36266 at ([world]337.67055353660095, -37.0, -451.52979407651713)
-[00:05:12] [Async Chat Thread - #21/INFO]: [Not Secure] <juns_12> comida?
-[00:05:25] [Async Chat Thread - #20/INFO]: [Not Secure] <juns_12> samux puto
-[00:05:28] [Async Chat Thread - #21/INFO]: [Not Secure] <juns_12> medio cora
-[00:07:25] [Async Chat Thread - #23/INFO]: [Not Secure] <juns_12> tamare
-[00:13:09] [Async Chat Thread - #25/INFO]: [Not Secure] <juns_12> toma tus cosas samuts
-[00:13:36] [Async Chat Thread - #24/INFO]: [Not Secure] <juns_12> y no se q mas
-[00:16:10] [Async Chat Thread - #27/INFO]: [Not Secure] <juns_12> si hubieramos hecho esto a las 2 am me la hubiera hecho solo
-[00:18:59] [Async Chat Thread - #29/INFO]: [Not Secure] <juns_12> comia
-[00:19:44] [Async Chat Thread - #28/INFO]: [Not Secure] <juns_12> oye samuts
-[00:19:48] [Async Chat Thread - #29/INFO]: [Not Secure] <El_samux> QUE JUANT
-[00:19:55] [Async Chat Thread - #28/INFO]: [Not Secure] <juns_12> tengo un disco q te dio una caja
-[00:19:59] [Async Chat Thread - #29/INFO]: [Not Secure] <juns_12> lo quieres o nel
-[00:20:07] [Async Chat Thread - #28/INFO]: [Not Secure] <El_samux> nel
-[00:20:22] [Server thread/INFO]: Null_Gos lost connection: Disconnected
-[00:20:22] [Server thread/INFO]: Null_Gos left the game
-[00:21:00] [Server thread/INFO]: juns_12 lost connection: Disconnected
-[00:21:00] [Server thread/INFO]: juns_12 left the game
-[00:21:03] [User Authenticator #12/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[00:21:06] [Server thread/INFO]: juns_12 joined the game
-[00:21:06] [Server thread/INFO]: juns_12[/127.118.100.209:34219] logged in with entity id 40007 at ([world]240.67826227818455, 72.0, -387.88601527134784)
-[00:22:14] [User Authenticator #13/INFO]: UUID of player Null_Gos is 4d4f77fb-1163-3fae-9f91-56337aab63ef
-[00:22:15] [Server thread/INFO]: Null_Gos joined the game
-[00:22:15] [Server thread/INFO]: Null_Gos[/127.2.91.159:47501] logged in with entity id 40319 at ([world]240.21317628375513, 72.0, -400.89166993910544)
-[00:25:59] [Async Chat Thread - #31/INFO]: [Not Secure] <juns_12> espera q no me carga el disco
-[00:26:13] [Async Chat Thread - #30/INFO]: [Not Secure] <juns_12> ya
-[00:26:59] [Async Chat Thread - #31/INFO]: [Not Secure] <juns_12> el de la capa sos vos samuts?
-[00:29:34] [Server thread/INFO]: juns_12 lost connection: Disconnected
-[00:29:34] [Server thread/INFO]: juns_12 left the game
-[00:35:49] [Async Chat Thread - #33/INFO]: [Not Secure] <El_samux> 1600 750 savana
-[00:59:24] [Server thread/INFO]: Null_Gos has made the advancement [The Parrots and the Bats]
-[01:09:37] [Server thread/WARN]: El_samux moved wrongly!
-[01:16:10] [Server thread/WARN]: Null_Gos moved wrongly!
-[01:21:31] [Server thread/INFO]: El_samux has reached the goal [Postmortal]
-[01:33:47] [User Authenticator #14/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:33:50] [Server thread/INFO]: juns_12 joined the game
-[01:33:50] [Server thread/INFO]: juns_12[/127.118.100.209:58599] logged in with entity id 68592 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:34:40] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:34:40] [Server thread/INFO]: juns_12 left the game.
-[01:34:40] [Server thread/WARN]: handleDisconnection() called twice
-[01:34:43] [User Authenticator #15/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:34:46] [Server thread/INFO]: juns_12 joined the game
-[01:34:46] [Server thread/INFO]: juns_12[/127.118.100.209:52037] logged in with entity id 68967 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:35:36] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:35:36] [Server thread/INFO]: juns_12 left the game.
-[01:35:36] [Server thread/WARN]: handleDisconnection() called twice
-[01:36:12] [User Authenticator #16/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:36:24] [Server thread/INFO]: juns_12 joined the game
-[01:36:24] [Server thread/INFO]: juns_12[/127.118.100.209:53043] logged in with entity id 69442 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:36:46] [Async Chat Thread - #35/INFO]: [Not Secure] <juns_12> renderizado -1 chunk
-[01:37:14] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:37:14] [Server thread/INFO]: juns_12 left the game.
-[01:37:14] [Server thread/WARN]: handleDisconnection() called twice
-[01:37:37] [User Authenticator #17/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:37:41] [Server thread/INFO]: juns_12 joined the game
-[01:37:41] [Server thread/INFO]: juns_12[/127.118.100.209:38231] logged in with entity id 69915 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:38:32] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:38:32] [Server thread/INFO]: juns_12 left the game.
-[01:38:32] [Server thread/WARN]: handleDisconnection() called twice
-[01:39:19] [User Authenticator #18/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:39:25] [Server thread/INFO]: juns_12 joined the game
-[01:39:25] [Server thread/INFO]: juns_12[/127.118.100.209:56933] logged in with entity id 70249 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:40:15] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:40:15] [Server thread/INFO]: juns_12 left the game.
-[01:40:15] [Server thread/WARN]: handleDisconnection() called twice
-[01:40:48] [User Authenticator #19/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:40:56] [Server thread/INFO]: juns_12 joined the game
-[01:40:56] [Server thread/INFO]: juns_12[/127.118.100.209:43401] logged in with entity id 70495 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:41:46] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:41:46] [Server thread/INFO]: juns_12 left the game.
-[01:41:46] [Server thread/WARN]: handleDisconnection() called twice
-[01:42:15] [Server thread/WARN]: El_samux moved wrongly!
-[01:42:18] [User Authenticator #20/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:42:25] [Server thread/INFO]: juns_12 joined the game
-[01:42:25] [Server thread/INFO]: juns_12[/127.118.100.209:35059] logged in with entity id 70919 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:43:15] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:43:15] [Server thread/INFO]: juns_12 left the game.
-[01:43:15] [Server thread/WARN]: handleDisconnection() called twice
-[01:43:32] [User Authenticator #21/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:43:34] [Server thread/INFO]: juns_12 joined the game
-[01:43:34] [Server thread/INFO]: juns_12[/127.118.100.209:60381] logged in with entity id 71366 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:43:48] [Async Chat Thread - #37/INFO]: [Not Secure] <juns_12> dale mrd
-[01:44:49] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:44:49] [Server thread/INFO]: juns_12 left the game.
-[01:44:49] [Server thread/WARN]: handleDisconnection() called twice
-[01:45:32] [User Authenticator #22/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:45:40] [Server thread/INFO]: juns_12 joined the game
-[01:45:40] [Server thread/INFO]: juns_12[/127.118.100.209:54227] logged in with entity id 72386 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:45:58] [Async Chat Thread - #39/INFO]: [Not Secure] <juns_12> vamos pc
-[01:46:17] [Server thread/INFO]: juns_12 lost connection: Disconnected
-[01:46:17] [Server thread/INFO]: juns_12 left the game
-[01:50:16] [User Authenticator #23/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:50:26] [Server thread/INFO]: juns_12 joined the game
-[01:50:26] [Server thread/INFO]: juns_12[/127.118.100.209:42437] logged in with entity id 74928 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:53:21] [Server thread/INFO]: juns_12 lost connection: Timed out
-[01:53:21] [Server thread/INFO]: juns_12 left the game.
-[01:53:21] [Server thread/WARN]: handleDisconnection() called twice
-[01:53:38] [User Authenticator #24/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[01:53:40] [Server thread/INFO]: juns_12 joined the game
-[01:53:40] [Server thread/INFO]: juns_12[/127.118.100.209:43589] logged in with entity id 75847 at ([world]292.20789730453504, 72.0, -376.76183029317144)
-[01:55:32] [Async Chat Thread - #41/INFO]: [Not Secure] <juns_12> ya
-[01:55:41] [Async Chat Thread - #40/INFO]: [Not Secure] <juns_12> no
-[01:56:54] [Async Chat Thread - #43/INFO]: [Not Secure] <juns_12> ya me puedo mover
-[01:57:11] [Async Chat Thread - #42/INFO]: [Not Secure] <juns_12> 1800
-[01:57:31] [Async Chat Thread - #42/INFO]: [Not Secure] <juns_12> 1400
-[01:57:58] [Async Chat Thread - #42/INFO]: [Not Secure] <juns_12> 1600
-[01:58:20] [Async Chat Thread - #44/INFO]: [Not Secure] <juns_12> 1300
-[01:59:11] [Async Chat Thread - #42/INFO]: [Not Secure] <juns_12> 1200
-[02:00:10] [Async Chat Thread - #44/INFO]: [Not Secure] <juns_12> ya puta mierda
-[02:01:21] [Async Chat Thread - #46/INFO]: [Not Secure] <juns_12> 1000
-[02:01:40] [Async Chat Thread - #45/INFO]: [Not Secure] <juns_12> 800
-[02:02:08] [Async Chat Thread - #46/INFO]: [Not Secure] <juns_12> 700
-[02:02:37] [Async Chat Thread - #45/INFO]: [Not Secure] <juns_12> por q tengo 3 llaves azules
-[02:03:02] [Async Chat Thread - #46/INFO]: [Not Secure] <juns_12> voy a abrir
-[02:03:09] [Async Chat Thread - #45/INFO]: [Not Secure] <juns_12> 500
-[02:03:22] [Async Chat Thread - #46/INFO]: [Not Secure] <juns_12> 700
-[02:05:34] [Async Chat Thread - #48/INFO]: [Not Secure] <juns_12> q fue eso
-[02:05:47] [Server thread/INFO]: juns_12 has made the advancement [Under Lock and Key]
-[02:05:58] [Async Chat Thread - #47/INFO]: [Not Secure] <juns_12> un tridente
-[02:06:01] [Async Chat Thread - #48/INFO]: [Not Secure] <juns_12> les go
-[02:06:43] [Async Chat Thread - #47/INFO]: [Not Secure] <juns_12> 300
-[02:07:06] [Server thread/INFO]: juns_12 has reached the goal [Revaulting]
-[02:08:01] [Async Chat Thread - #50/INFO]: [Not Secure] <juns_12> una bolsa y listo
-[02:11:33] [Server thread/WARN]: El_samux moved wrongly!
-[02:15:23] [Async Chat Thread - #52/INFO]: [Not Secure] <juns_12> mal presagio 5
-[02:16:16] [Async Chat Thread - #51/INFO]: [Not Secure] <juns_12> y una plantilla
-[02:17:30] [Async Chat Thread - #54/INFO]: [Not Secure] <juns_12> tamare iba bien
-[02:20:32] [Async Chat Thread - #56/INFO]: [Not Secure] <juns_12> no
-[02:21:13] [Async Chat Thread - #55/INFO]: [Not Secure] <juns_12> shit
-[02:21:21] [Async Chat Thread - #56/INFO]: [Not Secure] <juns_12> tenia 500 y ahora 2000
-[02:22:46] [Async Chat Thread - #58/INFO]: [Not Secure] <juns_12> a mi me cancelaron las clases mañana tamb
-[02:22:48] [Async Chat Thread - #57/INFO]: [Not Secure] <juns_12> les go
-[02:23:30] [Server thread/WARN]: El_samux moved wrongly!
-[02:25:22] [Server thread/INFO]: juns_12 lost connection: Timed out
-[02:25:22] [Server thread/INFO]: juns_12 left the game.
-[02:25:22] [Server thread/WARN]: handleDisconnection() called twice
-[02:29:13] [User Authenticator #25/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[02:29:16] [Server thread/INFO]: juns_12 joined the game
-[02:29:16] [Server thread/INFO]: juns_12[/127.118.100.209:57983] logged in with entity id 89197 at ([world]284.01249998807907, -18.0, -423.30000001192093)
-[02:30:06] [Server thread/INFO]: juns_12 lost connection: Timed out
-[02:30:06] [Server thread/INFO]: juns_12 left the game.
-[02:30:06] [Server thread/WARN]: handleDisconnection() called twice
-[02:31:03] [User Authenticator #26/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[02:31:07] [Server thread/INFO]: juns_12 joined the game
-[02:31:07] [Server thread/INFO]: juns_12[/127.118.100.209:56563] logged in with entity id 89662 at ([world]284.7871925183385, -18.0, -422.4043840227841)
-[02:32:03] [Async Chat Thread - #60/INFO]: [Not Secure] <juns_12> dale que se puede loco
-[02:32:22] [Server thread/INFO]: juns_12 lost connection: Timed out
-[02:32:22] [Server thread/INFO]: juns_12 left the game.
-[02:32:22] [Server thread/WARN]: handleDisconnection() called twice
-[02:32:55] [User Authenticator #27/INFO]: UUID of player juns_12 is 96c1d752-6190-3036-8d9d-99186da7fcde
-[02:32:58] [Server thread/INFO]: juns_12 joined the game
-[02:32:58] [Server thread/INFO]: juns_12[/127.118.100.209:57203] logged in with entity id 90051 at ([world]284.7871925183385, -18.0, -422.4043840227841)
-[02:33:01] [Async Chat Thread - #59/INFO]: [Not Secure] <El_samux> 32 -52
-[02:38:08] [Async Chat Thread - #62/INFO]: [Not Secure] <El_samux> 32 -52
-[02:44:12] [Async Chat Thread - #64/INFO]: [Not Secure] <juns_12> yo tamb tenia uno
-[02:47:43] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1756
-[02:47:55] [Async Chat Thread - #65/INFO]: [Not Secure] <El_samux> 1000 756
-[02:47:56] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1000 756
-[02:47:57] [Async Chat Thread - #65/INFO]: [Not Secure] <El_samux> 1000 756
-[02:48:10] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1700 56
-[02:48:12] [Async Chat Thread - #65/INFO]: [Not Secure] <El_samux> 1700 56
-[02:48:13] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1700 56t
-[02:48:13] [Async Chat Thread - #65/INFO]: [Not Secure] <El_samux> 1700 56tt
-[02:48:13] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1700 56tt
-[02:48:13] [Async Chat Thread - #65/INFO]: [Not Secure] <El_samux> 1700 56tt
-[02:48:14] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1700 56tt
-[02:48:14] [Async Chat Thread - #65/INFO]: [Not Secure] <El_samux> 1700 56tt
-[02:48:15] [Async Chat Thread - #66/INFO]: [Not Secure] <El_samux> 1700 56
-[02:52:25] [Async Chat Thread - #68/INFO]: [Not Secure] <juns_12> recien vuelvo de la trial
-[02:55:54] [Server thread/INFO]: juns_12 has made the advancement [Hot Stuff]
-[02:56:38] [Async Chat Thread - #70/INFO]: [Not Secure] <juns_12> zero gracias por el mod de acomodar todo bb
-[02:59:43] [Async Chat Thread - #72/INFO]: [Not Secure] <juns_12> hay destinos peores q la muerte zero
-[03:03:10] [Async Chat Thread - #74/INFO]: [Not Secure] <juns_12> esos si son temazos
-[03:03:44] [Async Chat Thread - #73/INFO]: [Not Secure] <juns_12> puta madre
-[03:04:37] [Async Chat Thread - #74/INFO]: [Not Secure] <juns_12> samuts vos escuchaste ese temazo?
-[03:06:18] [Async Chat Thread - #76/INFO]: [Not Secure] <juns_12> 7 del mediodia
-[03:06:22] [Async Chat Thread - #76/INFO]: [Not Secure] <juns_12> pff
-[03:07:30] [Async Chat Thread - #78/INFO]: [Not Secure] <juns_12> oie samuts
-[03:07:33] [Async Chat Thread - #77/INFO]: [Not Secure] <juns_12> oie samuts
-[03:07:35] [Async Chat Thread - #78/INFO]: [Not Secure] <juns_12> oie samuts
-[03:07:40] [Async Chat Thread - #77/INFO]: [Not Secure] <juns_12> oie samuts
-[03:07:50] [Async Chat Thread - #78/INFO]: [Not Secure] <juns_12> me debes un caballo puta
-[03:07:51] [Async Chat Thread - #77/INFO]: [Not Secure] <El_samux> qe
-[03:07:55] [Async Chat Thread - #78/INFO]: [Not Secure] <juns_12> acordate
-[03:09:48] [Async Chat Thread - #80/INFO]: [Not Secure] <juns_12> ya welvo
-[03:12:10] [Async Chat Thread - #82/INFO]: [Not Secure] <juns_12> la del que pro
-[03:19:18] [Async Chat Thread - #84/INFO]: [Not Secure] <juns_12> zzz
-[03:19:20] [Server thread/INFO]: Null_Gos lost connection: Disconnected
-[03:19:20] [Server thread/INFO]: Null_Gos left the game
-[03:19:25] [Server thread/INFO]: El_samux lost connection: Disconnected
-[03:19:25] [Server thread/INFO]: El_samux left the game
-[03:19:35] [Server thread/INFO]: juns_12 lost connection: Disconnected
-[03:19:35] [Thread-1/INFO]: Stopping server
-[03:19:35] [Thread-1/INFO]: [Chunky] Disabling Chunky v1.4.40
-[03:19:35] [Thread-1/INFO]: [TAB] [38;2;85;255;85mDisabled in 0ms[m
+[19:06:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:06:24] [ServerMain/INFO]: Loaded 1373 recipes
+[19:06:24] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[19:06:24] [Server thread/INFO]: Loading properties
+[19:06:24] [Server thread/INFO]: This server is running CraftBukkit version 4504-Spigot-270012a-dacd062 (MC: 1.21.5) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[19:06:25] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[19:06:25] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[19:06:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:06:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:06:25] [Server thread/INFO]: Debug logging is disabled
+[19:06:25] [Server thread/INFO]: Default game type: SURVIVAL
+[19:06:25] [Server thread/INFO]: Generating keypair
+[19:06:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:06:25] [Server thread/INFO]: Using epoll channel type
+[19:06:25] [Server thread/INFO]: [BetterSleeping4] Loading BetterSleeping4 v4.0.2
+[19:06:25] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.7.3
+[19:06:25] [Server thread/INFO]: [TAB] Loading TAB v5.2.3
+[19:06:25] [Server thread/INFO]: [Chunky] Loading Chunky v1.4.40
+[19:06:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.3
+[19:06:26] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.21.5[32;1m.[0;39m[m
+[19:06:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:06:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:06:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:06:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:06:27] [Server thread/INFO]: Preparing level "world"
+[19:06:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:06:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:06:27] [Server thread/INFO]: Mob Spawn Range: 6
+[19:06:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:06:27] [Server thread/INFO]: Max TNT Explosions: 100
+[19:06:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:06:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:06:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:06:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:06:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:06:27] [Server thread/INFO]: View Distance: 12
+[19:06:27] [Server thread/INFO]: Simulation Distance: 10
+[19:06:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:06:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:06:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:06:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:06:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:06:27] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:06:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:06:27] [Server thread/INFO]: Mob Spawn Range: 6
+[19:06:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:06:27] [Server thread/INFO]: Max TNT Explosions: 100
+[19:06:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:06:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:06:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:06:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:06:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:06:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:06:27] [Server thread/INFO]: View Distance: 12
+[19:06:27] [Server thread/INFO]: Simulation Distance: 10
+[19:06:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:06:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:06:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:06:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:06:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:06:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:06:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:06:28] [Server thread/INFO]: Mob Spawn Range: 6
+[19:06:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:06:28] [Server thread/INFO]: Max TNT Explosions: 100
+[19:06:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:06:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:06:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:06:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:06:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:06:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:06:28] [Server thread/INFO]: View Distance: 12
+[19:06:28] [Server thread/INFO]: Simulation Distance: 10
+[19:06:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:06:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:06:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:06:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:06:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:06:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:33] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[19:06:33] [Server thread/INFO]: Time elapsed: 5737 ms
+[19:06:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:06:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:06:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:06:34] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[19:06:35] [Server thread/INFO]: Time elapsed: 1259 ms
+[19:06:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:06:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:06:35] [Server thread/INFO]: Time elapsed: 814 ms
+[19:06:35] [Server thread/INFO]: [BetterSleeping4] Enabling BetterSleeping4 v4.0.2
+[19:06:36] [Server thread/INFO]: [TAB] Enabling TAB v5.2.3
+[19:06:37] [Server thread/INFO]: [TAB] [38;2;85;255;85mEnabled in 206ms[m
+[19:06:37] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[19:06:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:06:37] [Server thread/INFO]: Done (9.654s)! For help, type "help"
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [31;1m15.7.3[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [31;1m32c7547[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    A new version ([32;1m15.7.4[36;1m) is available! Downloading update...[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloading update...[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloaded update in 567ms[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as SkinsRestorer.jar[0;39m[m
+[19:06:37] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] The update will be loaded on the next server restart[0;39m[m
+[19:07:11] [User Authenticator #1/INFO]: UUID of player Null_Gos is 4d4f77fb-1163-3fae-9f91-56337aab63ef
+[19:07:13] [Server thread/INFO]: Null_Gos joined the game
+[19:07:13] [Server thread/INFO]: Null_Gos[/127.2.91.159:35571] logged in with entity id 47 at ([world]253.5, 68.5625, -361.5)
+[19:08:44] [Server thread/INFO]: Null_Gos lost connection: Disconnected
+[19:08:44] [Server thread/INFO]: Null_Gos left the game
+[19:12:40] [Thread-1/INFO]: Stopping server
